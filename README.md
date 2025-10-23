@@ -15,21 +15,25 @@ Responsive UI
 
 
 
-File Structure
+IBM-NJ-REALTIME CHAT APPLICATION/
+│
+├── backend/
+│   ├── Server.js
+│   ├── package.json
+│   └── .env
+│
+└── frontend/
+    ├── public/
+    │   └── index.html
+    │
+    ├── src/
+    │   ├── App.js
+    │   ├── index.js
+    │   └── socket.js
+    │
+    ├── .env
+    └── package.json
 
--backend
-Server.js
-Package.json
-.env
--fronend
---public
-Index.html
---src
-App.js
-index.js
-socket.js
---.env
---package.json
 
 Tech Stack
 
